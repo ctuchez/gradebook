@@ -3,6 +3,8 @@ package gradebook.model;
 /**
  * This makes a gradebook item which is the equivalent
  * of an assignment. It holds a category.
+ *
+ * @author Christian Tuchez
  */
 public class GradebookItem {
 

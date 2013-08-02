@@ -6,6 +6,8 @@ import java.util.Iterator;
 /**
  * This makes a data transfer objects to be changed
  * in the event that an arraylist is no longer wanted
+ *
+ * @author Christian Tuchez
  */
 
 public class GradebookDAO {

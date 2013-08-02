@@ -6,6 +6,8 @@ import java.util.List;
 /**
  * This is an example of a grading scheme
  * that implements the GradingScheme interface
+ *
+ * @author Christian Tuchez
  */
 public class GradingSchemeExample implements GradingScheme {
 

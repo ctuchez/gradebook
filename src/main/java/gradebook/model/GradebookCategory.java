@@ -3,6 +3,8 @@ package gradebook.model;
 /**
  * This is a category that is passed in to a grading item
  * which will be used by the scheme to calculate grades.
+ *
+ * @author Christian Tuchez
  */
 public class GradebookCategory {
 

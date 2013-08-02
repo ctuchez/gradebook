@@ -5,6 +5,8 @@ import java.util.Iterator;
 /**
  * This makes a class that belongs to a course. It can hold sections
  * and report the class grade and grade letter.
+ *
+ * @author Christian Tuchez
  */
 
 public class Class implements AverageScores {

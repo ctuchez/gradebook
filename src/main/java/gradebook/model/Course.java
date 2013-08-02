@@ -7,6 +7,8 @@ import java.util.Iterator;
 /**
  * This makes a course. It can hold classes
  * and report the course grade and grade letter.
+ *
+ * @author Christian Tuchez
  */
 public class Course implements AverageScores {
 

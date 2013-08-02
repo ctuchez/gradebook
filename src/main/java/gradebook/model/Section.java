@@ -5,6 +5,8 @@ import java.util.Iterator;
 /**
  * This makes a section that is passed into a class
  * and can hold students.
+ *
+ * @author Christian Tuchez
  */
 public class Section implements AverageScores {
 

@@ -4,6 +4,8 @@ package gradebook.model;
 /**
  * This makes a student that is passed into a section
  * and can hold gradbook items.
+ *
+ * @author Christian Tuchez
  */
 public class Student implements AverageScores {
 
